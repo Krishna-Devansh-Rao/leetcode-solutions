@@ -11,14 +11,17 @@
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2049150363/) | 🟢 Easy | `chooseatype` | Jun 28, 2026 |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2049150363/) | 🟢 Easy | `C++` | Jun 28, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | 🟡 Medium | `chooseatype` | Jun 28, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/2049151068/) | 🟢 Easy | `chooseatype` | Jun 28, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/submissions/2049151068/) | 🟢 Easy | `C++` | Jun 28, 2026 |
+| 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/) | 🟡 Medium | `chooseatype` | Jun 28, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/2049151559/) | 🟡 Medium | `C++` | Jun 28, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2049151800/) | 🟢 Easy | `chooseatype` | Jun 28, 2026 |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2049130925/?envType=problem-list-v2&envId=array) | 🟢 Easy | `chooseatype` | Jun 28, 2026 |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2049164960/) | 🟢 Easy | `chooseatype` | Jun 28, 2026 |
 | 1603 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2049147331/?envType=problem-list-v2&envId=array) | 🟡 Medium | `C++` | Jun 28, 2026 |
+| 1603 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2049147331/?envType=problem-list-v2&envId=array) | 🟢 Easy | `unknown` | Jun 28, 2026 |
 
 ---
-*Last updated: Sun, 28 Jun 2026 16:43:00 GMT*
+*Last updated: Sun, 28 Jun 2026 16:56:00 GMT*
