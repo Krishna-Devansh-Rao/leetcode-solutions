@@ -1,0 +1,14 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0001. Two Sum
+//  URL      : https://leetcode.com/problems/two-sum/submissions/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : June 28, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        
+    }
+};
