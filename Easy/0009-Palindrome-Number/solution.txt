@@ -1,0 +1,14 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0009. Palindrome Number
+//  URL      : https://leetcode.com/problems/palindrome-number/submissions/
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : June 28, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        
+    }
+};
