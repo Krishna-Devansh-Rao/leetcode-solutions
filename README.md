@@ -12,8 +12,8 @@
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2081064666/) | 🟢 Easy | `chooseatype` | Jul 25, 2026 |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | 🟡 Medium | `chooseatype` | Jul 25, 2026 |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/2081066499/) | 🟡 Medium | `chooseatype` | Jul 25, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/2081066499/) | 🟡 Medium | `C++` | Jul 25, 2026 |
 
 ---
-*Last updated: Sat, 25 Jul 2026 17:41:15 GMT*
+*Last updated: Sat, 25 Jul 2026 17:41:45 GMT*
