@@ -15,8 +15,8 @@
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/2081066499/) | 🟡 Medium | `chooseatype` | Jul 25, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/2081066499/) | 🟡 Medium | `C++` | Jul 25, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Jul 25, 2026 |
-| 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/2049151559/) | 🟡 Medium | `chooseatype` | Jul 25, 2026 |
+| 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `chooseatype` | Jul 25, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `C++` | Jul 25, 2026 |
 
 ---
-*Last updated: Sat, 25 Jul 2026 17:43:38 GMT*
+*Last updated: Sat, 25 Jul 2026 17:44:23 GMT*
