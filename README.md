@@ -17,8 +17,8 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Jul 25, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `chooseatype` | Jul 25, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `C++` | Jul 25, 2026 |
-| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/) | 🟢 Easy | `chooseatype` | Jul 26, 2026 |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2082398930/) | 🟢 Easy | `chooseatype` | Jul 26, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2082398930/) | 🟢 Easy | `C++` | Jul 26, 2026 |
 
 ---
-*Last updated: Sun, 26 Jul 2026 17:44:21 GMT*
+*Last updated: Sun, 26 Jul 2026 17:44:59 GMT*
