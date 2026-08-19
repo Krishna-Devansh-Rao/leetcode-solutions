@@ -3,22 +3,12 @@
 //  URL      : https://leetcode.com/problems/two-sum/submissions/2081064666/
 //  Difficulty : Easy
 //  Language : chooseatype
-//  Solved   : July 25, 2026
+//  Solved   : August 19, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
-
-        for(int i = 0; i < n; i++){
-            for(int j = i + 1; j < n; j++){
-                if(nums[i] + nums[j] == target){
-                    return {i, j};
-                }
-            }
-        }
-
-        return {}; // agar pair na mile
+        
     }
 };
