@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1470. Shuffle the Array
-//  URL      : https://leetcode.com/problems/shuffle-the-array/description/
+//  URL      : https://leetcode.com/problems/shuffle-the-array/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : August 19, 2026
