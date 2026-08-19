@@ -11,7 +11,7 @@
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2081064666/) | 🟢 Easy | `chooseatype` | Jul 25, 2026 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2081064666/) | 🟢 Easy | `chooseatype` | Aug 19, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/2081066499/) | 🟡 Medium | `chooseatype` | Jul 25, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/2081066499/) | 🟡 Medium | `C++` | Jul 25, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Jul 25, 2026 |
@@ -26,4 +26,4 @@
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/2112827433/?search=1512) | 🟢 Easy | `C++` | Aug 19, 2026 |
 
 ---
-*Last updated: Wed, 19 Aug 2026 15:06:32 GMT*
+*Last updated: Wed, 19 Aug 2026 15:31:32 GMT*
