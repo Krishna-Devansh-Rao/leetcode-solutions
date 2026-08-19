@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-9-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-10-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-6-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-4-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -20,6 +20,7 @@
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2082398930/) | 🟢 Easy | `chooseatype` | Jul 26, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2082398930/) | 🟢 Easy | `C++` | Jul 26, 2026 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `C++` | Aug 19, 2026 |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | 🟢 Easy | `chooseatype` | Aug 19, 2026 |
 
 ---
-*Last updated: Tue, 18 Aug 2026 23:48:34 GMT*
+*Last updated: Wed, 19 Aug 2026 14:27:54 GMT*
