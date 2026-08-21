@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-16-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-12-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-17-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-13-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-4-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -27,6 +27,7 @@
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `chooseatype` | Aug 20, 2026 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/?search=1512) | 🟢 Easy | `chooseatype` | Aug 19, 2026 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/2112827433/?search=1512) | 🟢 Easy | `C++` | Aug 19, 2026 |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Thu, 20 Aug 2026 17:54:23 GMT*
+*Last updated: Fri, 21 Aug 2026 17:46:02 GMT*
