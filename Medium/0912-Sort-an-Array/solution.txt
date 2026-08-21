@@ -1,16 +1,14 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0912. Sort an Array
-//  URL      : https://leetcode.com/problems/sort-an-array/
+//  URL      : https://leetcode.com/problems/sort-an-array/submissions/?envType=problem-list-v2&envId=divide-and-conquer
 //  Difficulty : Medium
 //  Language : chooseatype
-//  Solved   : July 25, 2026
+//  Solved   : August 21, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-
-        return nums;
+        
     }
 };
