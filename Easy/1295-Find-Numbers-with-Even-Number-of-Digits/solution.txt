@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1295. Find Numbers with Even Number of Digits
-//  URL      : https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+//  URL      : https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : August 22, 2026
