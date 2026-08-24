@@ -1,11 +1,11 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0007. Reverse Integer
-//  URL      : https://leetcode.com/problems/reverse-integer/submissions/2081066499/
+//  URL      : https://leetcode.com/problems/reverse-integer/
 //  Difficulty : Medium
 //  Language : C++
-//  Runtime  : 5 ms
-//  Memory   : 8.5 MB
-//  Solved   : July 25, 2026
+//  Runtime  : 2 ms
+//  Memory   : 7.7 MB
+//  Solved   : August 24, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
