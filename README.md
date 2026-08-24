@@ -14,7 +14,7 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `chooseatype` | Aug 19, 2026 |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `C++` | Aug 19, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | 🟡 Medium | `chooseatype` | Aug 24, 2026 |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/2081066499/) | 🟡 Medium | `C++` | Jul 25, 2026 |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | `C++` | Aug 24, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Jul 25, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/?envType=problem-list-v2&envId=divide-and-conquer) | 🟡 Medium | `chooseatype` | Aug 21, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `C++` | Jul 25, 2026 |
@@ -30,4 +30,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Mon, 24 Aug 2026 18:00:30 GMT*
+*Last updated: Mon, 24 Aug 2026 18:01:02 GMT*
