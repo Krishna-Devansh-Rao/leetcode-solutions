@@ -1,9 +1,9 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0009. Palindrome Number
-//  URL      : https://leetcode.com/problems/palindrome-number/
+//  URL      : https://leetcode.com/problems/palindrome-number/submissions/
 //  Difficulty : Easy
 //  Language : chooseatype
-//  Solved   : July 25, 2026
+//  Solved   : August 25, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
