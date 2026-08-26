@@ -16,7 +16,7 @@
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | 🟡 Medium | `chooseatype` | Aug 24, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | `C++` | Aug 24, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Aug 25, 2026 |
-| 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/?envType=problem-list-v2&envId=divide-and-conquer) | 🟡 Medium | `chooseatype` | Aug 21, 2026 |
+| 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/) | 🟡 Medium | `chooseatype` | Aug 26, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `C++` | Jul 25, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2116402352/) | 🟢 Easy | `C++` | Aug 22, 2026 |
@@ -30,4 +30,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Tue, 25 Aug 2026 16:35:50 GMT*
+*Last updated: Wed, 26 Aug 2026 17:31:49 GMT*
