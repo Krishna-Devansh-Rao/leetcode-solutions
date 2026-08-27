@@ -16,7 +16,7 @@
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | 🟡 Medium | `chooseatype` | Aug 24, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | `C++` | Aug 24, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Aug 25, 2026 |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2122203398/) | 🟢 Easy | `chooseatype` | Aug 27, 2026 |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `chooseatype` | Aug 27, 2026 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `C++` | Aug 27, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `chooseatype` | Aug 26, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `C++` | Aug 26, 2026 |
@@ -32,4 +32,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Thu, 27 Aug 2026 17:43:20 GMT*
+*Last updated: Thu, 27 Aug 2026 17:43:51 GMT*
