@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0026. Remove Duplicates from Sorted Array
-//  URL      : https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2122203398/
+//  URL      : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : August 27, 2026
