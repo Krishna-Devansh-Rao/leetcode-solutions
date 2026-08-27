@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-17-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-13-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-18-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-14-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-4-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -16,6 +16,7 @@
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/) | 🟡 Medium | `chooseatype` | Aug 24, 2026 |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | `C++` | Aug 24, 2026 |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Aug 25, 2026 |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2122203398/) | 🟢 Easy | `chooseatype` | Aug 27, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `chooseatype` | Aug 26, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `C++` | Aug 26, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
@@ -30,4 +31,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Wed, 26 Aug 2026 17:32:25 GMT*
+*Last updated: Thu, 27 Aug 2026 17:42:59 GMT*
