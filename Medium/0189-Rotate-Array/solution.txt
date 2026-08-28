@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0189. Rotate Array
-//  URL      : https://leetcode.com/problems/rotate-array/description/
+//  URL      : https://leetcode.com/problems/rotate-array/
 //  Difficulty : Medium
 //  Language : chooseatype
 //  Solved   : August 28, 2026
