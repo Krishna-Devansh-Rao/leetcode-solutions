@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-21-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-15-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-22-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-16-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-6-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -27,6 +27,7 @@
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/?search=1512) | 🟢 Easy | `chooseatype` | Aug 19, 2026 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `C++` | Sep 8, 2026 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `Java` | Sep 8, 2026 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `C++` | Aug 20, 2026 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `chooseatype` | Aug 20, 2026 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/?search=1512) | 🟢 Easy | `chooseatype` | Aug 19, 2026 |
@@ -34,4 +35,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Mon, 07 Sep 2026 18:49:28 GMT*
+*Last updated: Mon, 07 Sep 2026 18:59:41 GMT*
