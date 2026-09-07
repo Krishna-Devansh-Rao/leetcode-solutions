@@ -1,25 +1,24 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1512. Number of Good Pairs
-//  URL      : https://leetcode.com/problems/number-of-good-pairs/
+//  URL      : https://leetcode.com/problems/number-of-good-pairs/description/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : September 8, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
-public:
-    int numIdenticalPairs(vector<int>& nums) {
-      int count = 0;
-        int n = nums.size();
+    public int numIdenticalPairs(int[] nums) {
+        int count = 0;
+        int n = nums.length;
 
-        for(int i = 0; i < n; i++) {
-            for(int j = i + 1; j < n; j++) {
-                if(nums[i] == nums[j]) {
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (nums[i] == nums[j]) {
                     count++;
                 }
             }
         }
 
-        return count;  
+        return count;
     }
-};
+}
