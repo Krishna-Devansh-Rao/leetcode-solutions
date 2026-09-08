@@ -24,7 +24,7 @@
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `C++` | Aug 26, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/) | 🟢 Easy | `chooseatype` | Aug 22, 2026 |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/2116402352/) | 🟢 Easy | `C++` | Aug 22, 2026 |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/?search=1512) | 🟢 Easy | `chooseatype` | Aug 19, 2026 |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/2135285381/) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `C++` | Sep 8, 2026 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `Java` | Sep 8, 2026 |
@@ -36,4 +36,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Mon, 07 Sep 2026 19:06:41 GMT*
+*Last updated: Tue, 08 Sep 2026 15:30:00 GMT*
