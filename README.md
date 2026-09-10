@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-24-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-18-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-25-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-19-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-6-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -35,6 +35,7 @@
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/2112827433/?search=1512) | 🟢 Easy | `C++` | Aug 19, 2026 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/2134331948/) | 🟢 Easy | `Java` | Sep 8, 2026 |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/submissions/2115361025/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `C++` | Sep 11, 2026 |
 
 ---
-*Last updated: Thu, 10 Sep 2026 19:03:47 GMT*
+*Last updated: Thu, 10 Sep 2026 19:04:00 GMT*
