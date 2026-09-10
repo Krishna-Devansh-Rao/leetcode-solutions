@@ -7,14 +7,10 @@
 // ═══════════════════════════════════════════════════════
 
 class Solution {
-public:
-    vector<int> runningSum(vector<int>& nums) {
-        int sum = 0;
-        int n = nums.size();
-        for(int i =0 ; i < n ; i++){
-        sum = sum + nums[i];
-        cout << sum << ",";
+    public int[] runningSum(int[] nums) {
+        for(int i = 1 ; i < nums.length ; i++){
+            nums[i] = nums[i] + nums[i-1];
         }
     return nums;
     }
-};
+}
