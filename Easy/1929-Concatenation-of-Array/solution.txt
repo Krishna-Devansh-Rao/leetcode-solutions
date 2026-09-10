@@ -1,14 +1,20 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 1929. Concatenation of Array
-//  URL      : https://leetcode.com/problems/concatenation-of-array/submissions/2115361025/
+//  URL      : https://leetcode.com/problems/concatenation-of-array/description/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
-public:
-    vector<int> getConcatenation(vector<int>& nums) {
+    public int[] getConcatenation(int[] nums) {
         
+        int n = nums.length;
+        int[] ans = new int[2 * n];
+        for(int i = 0; i < 2 * n; i++){
+            ans[i] = nums[i % n];
+        }
+        return ans;
+
     }
-};
+}
