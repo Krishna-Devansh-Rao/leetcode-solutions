@@ -30,11 +30,11 @@
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `Java` | Sep 8, 2026 |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `C++` | Aug 20, 2026 |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `chooseatype` | Aug 20, 2026 |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | `chooseatype` | Sep 11, 2026 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | 🟢 Easy | `chooseatype` | Sep 8, 2026 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/2112827433/?search=1512) | 🟢 Easy | `C++` | Aug 19, 2026 |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/2134331948/) | 🟢 Easy | `Java` | Sep 8, 2026 |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Thu, 10 Sep 2026 17:59:38 GMT*
+*Last updated: Thu, 10 Sep 2026 18:50:07 GMT*
