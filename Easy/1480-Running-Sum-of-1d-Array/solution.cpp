@@ -5,18 +5,18 @@
 //  Language : C++
 //  Runtime  : 0 ms
 //  Memory   : 8.3 MB
-//  Solved   : August 20, 2026
+//  Solved   : September 11, 2026
 // ═══════════════════════════════════════════════════════
 
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
         int sum = 0;
-        for(int i =0 ; i < nums.size() ; i++){
-            sum = sum + nums[i];
+        int n = nums.size();
+        for(int i =0 ; i < n ; i++){
+        sum = sum + nums[i];
+        cout << sum << endl;
         }
-
     return nums;
-
     }
 };
