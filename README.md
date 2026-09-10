@@ -4,8 +4,8 @@
 
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-23-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-17-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-24-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-18-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-6-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=flat-square)
 
@@ -18,6 +18,7 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `chooseatype` | Aug 25, 2026 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `chooseatype` | Sep 10, 2026 |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | `C++` | Aug 27, 2026 |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2137820078/) | 🟢 Easy | `Java` | Sep 10, 2026 |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `chooseatype` | Aug 28, 2026 |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | `C++` | Aug 28, 2026 |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | `chooseatype` | Aug 26, 2026 |
@@ -36,4 +37,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `chooseatype` | Aug 21, 2026 |
 
 ---
-*Last updated: Thu, 10 Sep 2026 17:44:30 GMT*
+*Last updated: Thu, 10 Sep 2026 17:59:03 GMT*
